@@ -1,0 +1,1 @@
+Hello, my name is Aidan Hayes. I am a senior at the University at Albany, SUNY studying Computer Science.
